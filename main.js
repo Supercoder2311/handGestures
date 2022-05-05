@@ -1,0 +1,1 @@
+// https://teachablemachine.withgoogle.com/models/af2-r7rAn/
